@@ -1,0 +1,1 @@
+var myAccounts = angular.module('myAccounts',[]);
